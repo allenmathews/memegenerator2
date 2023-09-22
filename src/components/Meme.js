@@ -3,7 +3,7 @@ import memesData from "../memesData.js/memesData"
 
 export default function Meme() {
     let url
-
+        //get meme image
     function getMemeImage() {
         const memesArray = memesData.data.memes
         const randomNumber = Math.floor(Math.random() * memesArray.length)
