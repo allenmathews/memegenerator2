@@ -2,13 +2,6 @@ import React from "react"
 import memesData from "../memesData.js"
 
 export default function Meme() {
-    /**
-     * Challenge: 
-     * 1. Set up the text inputs to save to
-     *    the `topText` and `bottomText` state variables.
-     * 2. Replace the hard-coded text on the image with
-     *    the text being saved to state.
-     */
     
     const [meme, setMeme] = React.useState({
         topText: "",
@@ -60,7 +53,7 @@ export default function Meme() {
                     className="form--button"
                     onClick={getMemeImage}
                 >
-                    Get a new meme image 🖼
+                    Get a new meme image🖼
                 </button>
             </div>
             <div className="meme">
