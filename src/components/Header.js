@@ -10,7 +10,7 @@ export default function Header() {
         className = 'header--image' / >
         <
         h3 className = 'header--title' > Meme Generator < /h3> <
-        h3 className = 'header--project' > React Course - Project 3 < /h3> < /
+        h3 className = 'header--project' > React Course - Project < /h3> < /
         header >
     )
 }
