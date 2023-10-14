@@ -1,6 +1,4 @@
 import React from 'react'
-
-//header
 export default function Header() {
     return ( <
         header className = 'header' >
