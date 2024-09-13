@@ -151,7 +151,7 @@ export default {
                 "url": "https://i.imgflip.com/2gnnjh.jpg",
                 "width": 923,
                 "height": 738,
-                "box_count": 4
+                "box_count": 23
             },
             {
                 "id": "97984",
