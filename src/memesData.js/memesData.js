@@ -150,8 +150,8 @@ export default {
                 "name": "Monkey Puppet",
                 "url": "https://i.imgflip.com/2gnnjh.jpg",
                 "width": 923,
-                "height": 738,
-                "box_count": 23
+                "height": 768,
+                "box_count": 29,
             },
             {
                 "id": "97984",
