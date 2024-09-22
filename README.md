@@ -72,10 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 4b2fc64 (first commit)
-{
-  "USER_ID": "325023942",
-  "USER_AGENT": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-  "X_BC": "2a262efd022092a6dd0817607d11e692c917a102",
-  "COOKIE": "__cf_bm=cpLkCsIQf7Mrl.nfVdoZMMHT8w1lXZKRN4I_BmG3LMA-1726822893-1.0.1.1-azerpwz7egHPZFmXYuASNiScWPK6LvNurM5iPtp4v8nrxBHtBX7aWYoc14BqA.I1g6ODD.Ex6_olsLXfoKHnDQ; _cfuvid=5Lgby9mlZ96c2L8FEBcg0vI86yzMCojNRcAOBNUf2E8-1726822893509-0.0.1.1-604800000; fp=2a262efd022092a6dd0817607d11e692c917a102; lang=en; csrf=1u7vR9Ul18fd9ef306723c06b5bdcc9e8f724960; sess=n1qvbckmgsap0no8q88jo0jqqr; auth_id=325023942; st=008f5fb74740c4fa3fa449332f63ed0c7f1b654ac53cee593837c3df7c4e0e16"
-}
+>>>>>>> 4b2fc64 (first commit
