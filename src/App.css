@@ -50,9 +50,9 @@ main {
 
 .form--intput {
     font-family: "Karla", sans-serif;
-    border-radius: 6px;
-    border: 1px solid #cbc5dc;
-    text-indent: 7px;
+    border-radius: 9px;
+    border: 2px solid #cbc5dc;
+    text-indent: 10px;
 }
 
 .form--button {
