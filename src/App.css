@@ -22,7 +22,7 @@ main {
     align-items: center;
     /* justify-content: space-around; */
     height: 85px;
-    background: linear-gradient(90deg, #072ba2 1.18%, #A626D3 100%);
+    background: linear-gradient(90deg, #072ba2 12.18%, #A626D3 100%);
     color: white;
     padding: 20px;
 }
