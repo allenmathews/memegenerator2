@@ -29,11 +29,11 @@ main {
 
 .header--image {
     height: 100%;
-    margin-right: 3px;
+    margin-right: 5px;
 }
 
 .header--title {
-    font-size: 1.20rem;
+    font-size: 1.50rem;
     margin-right: auto;
 }
 
