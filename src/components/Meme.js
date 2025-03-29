@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Meme() {
     const [meme, setMeme] = React.useState({
-        topText: "",
+        topText: "blank",
         bottomText: "",
         randomImage: "http://i.imgflip.com/1bij.jpg" 
     })
