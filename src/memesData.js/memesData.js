@@ -53,7 +53,7 @@ export default {
                 "id": "124822590",
                 "name": "Left Exit 12 Off Ramp",
                 "url": "https://i.imgflip.com/22bdq6.jpg",
-                "width": 804,
+                "width": 805,
                 "height": 767,
                 "box_count": 3
             },
