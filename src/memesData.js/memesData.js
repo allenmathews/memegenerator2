@@ -55,7 +55,7 @@ export default {
                 "url": "https://i.imgflip.com/22bdq6.jpg",
                 "width": 805,
                 "height": 767,
-                "box_count": 3
+                "box_count": 4
             },
             {
                 "id": "217743513",
